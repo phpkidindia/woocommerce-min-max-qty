@@ -9,8 +9,6 @@ License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-Allow customers to pay to upload a file.
-
 == Description ==
 Hello Friends,<br>
 This is a wordpress woocommerce support plugin which will Allow the site admin to enable the feature of minimum and maximum purchase of a particular product in each product.
